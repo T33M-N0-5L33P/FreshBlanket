@@ -1,0 +1,25 @@
+{
+  "text": "",
+  "formats": [
+    {
+      "screen": {
+        "record format name": "myScreen"        
+      },
+      "items": [
+        {
+          "id": "CenteringLayout",
+          "field type": "layout",
+          "left": "calc(50% - 450px)",
+          "top": "0px",
+          "template": "simple container",
+          "height": "745px",
+          "width": "900px",
+          "center horizontally": "true",
+          "locked in place": "true"
+        }
+      ]
+    }
+  ],
+  "keywords": [],
+  "long name aliases": true
+}

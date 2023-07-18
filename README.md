@@ -1,10 +1,4 @@
-Project Title
+FreshBlanket (working title)
 =============
 
-This is your project **README** file. Edit this file to describe your project.
-
-To begin development, drag new widgets into **app.json** in design view.
-
-To test your changes, select ***Save***, and then select ***Launch***.
-
-To name your project, select ***Settings***.
+Testing the functionality of profoundjs to see how easy it could make certain editing tasks. At this time there is no actual direction and this repo is just for saving progress and is subject to change and/or deletion.
